@@ -1,0 +1,44 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Blog | Kelvin Muriuki</title>
+      <link>/blog</link>
+      <description>my personal portfolio and blog where I share my skills and thoughts</description>
+      <language>en-us</language>
+      <managingEditor>muriukikelvin27@gmail.com (Kelvin Muriuki)</managingEditor>
+      <webMaster>muriukikelvin27@gmail.com (Kelvin Muriuki)</webMaster>
+      <lastBuildDate>Sat, 01 Jul 2023 21:00:00 GMT</lastBuildDate>
+      <atom:link href="/tags/education/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>/blog/Convert_LaTex_to_HTML</guid>
+    <title>Convert LaTex to HTML</title>
+    <link>/blog/Convert_LaTex_to_HTML</link>
+    <description>Converting the .tex file directly to HTML using the tool &#39;htlatex&#39; is a better approach. htlatex is powerful and flexible, and it can be used easily on Linux based operating systems.</description>
+    <pubDate>Sat, 01 Jul 2023 21:00:00 GMT</pubDate>
+    <author>muriukikelvin27@gmail.com (Kelvin Muriuki)</author>
+    <category>Tech</category><category>Education</category><category>LaTex</category><category>HTML</category><category>PDF</category>
+  </item>
+
+  <item>
+    <guid>/blog/Big-Data</guid>
+    <title>Big Data &quot;The Sexiest Job of the 21st Century&quot;</title>
+    <link>/blog/Big-Data</link>
+    <description>Big Data &quot;The Sexiest Job of the 21st Century&quot;</description>
+    <pubDate>Sat, 16 Jul 2016 00:00:00 GMT</pubDate>
+    <author>muriukikelvin27@gmail.com (Kelvin Muriuki)</author>
+    <category>Tech</category><category>Education</category><category>Math</category><category>Internet</category><category>Google</category>
+  </item>
+
+  <item>
+    <guid>/blog/Why-LaTex</guid>
+    <title>Why LaTex</title>
+    <link>/blog/Why-LaTex</link>
+    <description>This blog attempts to explain what Latex is, in under five minutes.</description>
+    <pubDate>Fri, 21 Aug 2015 00:00:00 GMT</pubDate>
+    <author>muriukikelvin27@gmail.com (Kelvin Muriuki)</author>
+    <category>Tech</category><category>Education</category><category>LaTex</category>
+  </item>
+
+    </channel>
+  </rss>

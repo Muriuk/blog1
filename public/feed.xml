@@ -1,0 +1,84 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Blog | Kelvin Muriuki</title>
+      <link>/blog</link>
+      <description>my personal portfolio and blog where I share my skills and thoughts</description>
+      <language>en-us</language>
+      <managingEditor>muriukikelvin27@gmail.com (Kelvin Muriuki)</managingEditor>
+      <webMaster>muriukikelvin27@gmail.com (Kelvin Muriuki)</webMaster>
+      <lastBuildDate>Sat, 01 Jul 2023 21:00:00 GMT</lastBuildDate>
+      <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>/blog/Convert_LaTex_to_HTML</guid>
+    <title>Exploring the Power of Python Flask</title>
+    <link>/blog/Convert_LaTex_to_HTML</link>
+    <description>Python has gained immense popularity as a versatile programming language, and when it comes to web development, Flask stands out as a robust and flexible framework. Flask provides developers with the tools needed to build web applications quickly and efficiently, thanks to its simplicity and extensive ecosystem. In this blog, we will delve into the world of Python Flask, exploring its features, advantages, and how to get started with this lightweight yet powerful web framework.</description>
+    <pubDate>Sat, 01 Jul 2023 21:00:00 GMT</pubDate>
+    <author>muriukikelvin27@gmail.com (Kelvin Muriuki)</author>
+    <category>Tech</category><category>Education</category><category>LaTex</category><category>HTML</category><category>PDF</category>
+  </item>
+
+  <item>
+    <guid>/blog/slaying-text-with-sed-a-beginners-guide</guid>
+    <title>Slaying Text with SED - A Beginner&#39;s Guide</title>
+    <link>/blog/slaying-text-with-sed-a-beginners-guide</link>
+    <description>As a Linux user, you&#39;re probably familiar with the command line and various tools to manipulate text. One such tool is SED (Stream Editor), a powerful utility for searching, replacing, and transforming text in a file or stream.</description>
+    <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
+    <author>muriukikelvin27@gmail.com (Kelvin Muriuki)</author>
+    <category>Linux</category><category>SED</category><category>Text-Search</category><category>Terminal</category><category>Command</category>
+  </item>
+
+  <item>
+    <guid>/blog/understanding-cron-jobs-and-setting-them-up</guid>
+    <title>Understanding Cron Jobs and Setting Them Up</title>
+    <link>/blog/understanding-cron-jobs-and-setting-them-up</link>
+    <description>Cron jobs are a popular way to automate repetitive tasks on a Unix-based system. They allow users to schedule scripts or commands to run at specific intervals, whether daily, weekly, or even every minute. In this blog post, we&#39;ll explore the basics of cron jobs and walk through an example setup.</description>
+    <pubDate>Mon, 17 Apr 2023 00:00:00 GMT</pubDate>
+    <author>muriukikelvin27@gmail.com (Kelvin Muriuki)</author>
+    <category>UNIX</category><category>Linux</category><category>Cron Jobs</category><category>Automation</category><category>Scheduled Tasks</category><category>SysAdmin</category><category>Shell Scripting</category>
+  </item>
+
+  <item>
+    <guid>/blog/setting-up-jupyter-lab-environment-in-a-vps</guid>
+    <title>Setting up Jupyter Lab environment in a VPS</title>
+    <link>/blog/setting-up-jupyter-lab-environment-in-a-vps</link>
+    <description>In this blog post, we will discuss how to set up a JupyterLab environment on a VPS (Virtual Private Server) with Nginx, a high-performance web server that can act as a reverse proxy for JupyterLab</description>
+    <pubDate>Sun, 19 Mar 2023 00:00:00 GMT</pubDate>
+    <author>muriukikelvin27@gmail.com (Kelvin Muriuki)</author>
+    <category>Jupyter</category><category>Python</category><category>Code</category><category>Linux</category><category>VPS</category><category>Server</category><category>Web</category><category>Ubuntu</category><category>Debian</category>
+  </item>
+
+  <item>
+    <guid>/blog/Soft-Patent</guid>
+    <title>Software Patents that Changed the World</title>
+    <link>/blog/Soft-Patent</link>
+    <description>Best software patents that have revolutionized industries.</description>
+    <pubDate>Sat, 11 Mar 2023 00:00:00 GMT</pubDate>
+    <author>muriukikelvin27@gmail.com (Kelvin Muriuki)</author>
+    <category>Tech</category><category>Patent</category><category>IP</category><category>Innovation</category>
+  </item>
+
+  <item>
+    <guid>/blog/Big-Data</guid>
+    <title>Big Data &quot;The Sexiest Job of the 21st Century&quot;</title>
+    <link>/blog/Big-Data</link>
+    <description>Big Data &quot;The Sexiest Job of the 21st Century&quot;</description>
+    <pubDate>Sat, 16 Jul 2016 00:00:00 GMT</pubDate>
+    <author>muriukikelvin27@gmail.com (Kelvin Muriuki)</author>
+    <category>Tech</category><category>Education</category><category>Math</category><category>Internet</category><category>Google</category>
+  </item>
+
+  <item>
+    <guid>/blog/Why-LaTex</guid>
+    <title>Why LaTex</title>
+    <link>/blog/Why-LaTex</link>
+    <description>This blog attempts to explain what Latex is, in under five minutes.</description>
+    <pubDate>Fri, 21 Aug 2015 00:00:00 GMT</pubDate>
+    <author>muriukikelvin27@gmail.com (Kelvin Muriuki)</author>
+    <category>Tech</category><category>Education</category><category>LaTex</category>
+  </item>
+
+    </channel>
+  </rss>
