@@ -1,7 +1,7 @@
 import { FaGraduationCap, FaBlackTie } from 'react-icons/fa'
 import { AiOutlineCode } from 'react-icons/ai'
 import { SiLeetcode } from 'react-icons/si'
-import { Disclosure, Transition } from '/@headlessui/react'
+import { Disclosure, Transition } from '@headlessui/react'
 import { HiChevronDown, HiOutlineDatabase } from 'react-icons/hi'
 import { FaBaby } from 'react-icons/fa'
 import { BsBuilding } from 'react-icons/bs'
